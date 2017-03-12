@@ -12,3 +12,10 @@ Snippets
 ```
 jupyter notebook
 ```
+
+目录
+---
+
+  - sample 一些简单的代码片段
+  - design-patterns 使用 python 实现的设计模式
+  - collections 标准库 collections 的用例
