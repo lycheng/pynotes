@@ -18,13 +18,14 @@ jupyter notebook
 目录
 ---
 
-文件 | 说明
---- | ---
-sample | 一些简单的代码片段
-design-patterns | 使用 python 实现的设计模式
-collections | 标准库 collections 的实例
-heapq | 标准库 heapq 的实例
-itertools | 标准库 itertools 的实例
-decorator | 装饰器相关例子
-iterable | 可迭代对象的简单说明
-descriptor | 装饰器的简单例子
+ - collections - 标准库 collections 的实例
+ - data-structure - 使用 python 实现的数据结构
+ - decorator - 装饰器相关例子
+ - descriptor - 描述符简单例子
+ - design-patterns - 使用 python 实现的设计模式
+ - heapq - 标准库 heapq 的实例
+ - iterable - 可迭代对象的简单说明
+ - itertools - 标准库 itertools 的实例
+ - sample - 一些简单的代码片段
+ - tools
+   - mimtproxy - mimtproxy 的简单使用
